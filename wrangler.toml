@@ -5,7 +5,7 @@ minify = true
 
 [[kv_namespaces]]
 binding = "V2RAY"
-id = "216a79ea5462492da7aa737cc8d7a2af"
+id = "8f63ddad053f405e8f7d70b3d7a7d063"
 
 [build]
 command = "cargo install worker-build && worker-build --release"
